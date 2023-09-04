@@ -1,7 +1,7 @@
-resource "azurerm_resource_group" "myresourcegroup"  {
-  name     = "my-resources"
-  location = "West Europe"
-}
+#resource "azurerm_resource_group" "myresourcegroup"  {
+#  name     = "my-resources"
+#  location = "West Europe"
+#}
 
 
 
