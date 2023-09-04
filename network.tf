@@ -1,7 +1,7 @@
-#resource "azurerm_resource_group" "example" {
-#  name     = "my-resources"
-#  location = "West Europe"
-#}
+resource "azurerm_resource_group" "network" {
+  name     = "my-resources"
+  location = "West Europe"
+}
 
 
 
